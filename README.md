@@ -61,10 +61,11 @@ Pantaloons is one of India's largest fast fashion store brand. The Company also 
   <hr>
   <div>
   <img style="width:100%" src="https://i.ibb.co/dkCSyyV/Screenshot-262.png"/>
-    <img style="width:100%" src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/273276313_1161238704412647_306251944206627368_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=u4IG6mNfcT4AX_63WdK&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT-l5jVolxUV4ucUNQBHyIYkb8NY8pIzrZ5O14jx51671w&oe=620782A0"/>
-    <img style="width:100%" src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/273013341_1161238711079313_7648610262307124082_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=fcxoEfW7t0AAX909oWh&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT-j2-b9-26YwLReLWlKU9Jk4v7ApMnn9alIuYCyUlXGkQ&oe=6206A263"/>
-    <img style="width:100%" src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/272979373_1161238681079316_8935957020930940527_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=5Jk_TEchB-gAX_9xjBE&_nc_oc=AQlKhU-DNU6etgTfF4Ssh8VMQts4F3EkrmbdRm49hMdyxoZpDxPZhSPPMrISC4RzaRI&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT_3TzSZLxrLfXcR6akpmbEJ05DIBBWMbto3bSkQsckjvg&oe=62074FB6"/>
-    <img style="width:100%" src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/273275870_1161136904422827_9145592532099407981_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=sK0E27pcxfQAX92LMxm&_nc_ht=scontent.fixm4-1.fna&oh=00_AT9FOq03QR7uuC5jWMH-VHnqFP9gkSTusbusm2FWsG1o0w&oe=6207037A"/>
+    <img style="width:100%" src="https://i.ibb.co/qx5FmLC/Screenshot-264.png"/>
+    <img style="width:100%" src="https://i.ibb.co/1fpPLGr/Screenshot-266.png"/>
+    <img style="width:100%" src="https://i.ibb.co/KbqVmzj/Screenshot-268.png"/>
+    <img style="width:100%" src="https://i.ibb.co/181m5QW/Screenshot-270.png"/>
+    <img style = "width:100%" src="https://i.ibb.co/QQXK6LJ/Screenshot-272.png"></img>
   </div>
     
 </div>
